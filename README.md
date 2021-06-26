@@ -8,14 +8,7 @@ Instagram: https://www.instagram.com/jafarabbas33/
 
 Email: jafarabbas_786@yahoo.com
 
-Website: <a href="https://electrogeeks.org" title="My website">electrogeeks.org</a>
-
-Status:
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/65cf97e9-d39d-428c-ad82-34d9aec44bb3/deploy-status)](https://app.netlify.com/sites/compassionate-pare-e6b38a/deploys)
-
-
-Hope to hear from you guys soon!
+Hope to hear from you soon!
 <!---
 JafarAbbas33/JafarAbbas33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
